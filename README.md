@@ -11,6 +11,7 @@ GPXファイルをpandasで扱うライブラリ。gpx-mapを使用。
 https://github.com/kurama8103/gpxdf
 
 # tdnet-pdfs
-tdnetからキーワード検索し、PDFのダウンロードを行うツール  
+tdnetからキーワード検索し、PDFのダウンロードを行うツール。  
+herokuの仕様によりスリープ時は起動の時間が数秒かかる。  
 https://tdnet-pdfs.herokuapp.com/
 
